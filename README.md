@@ -1,10 +1,9 @@
 # projetoGit
 
 ## 1. Criar uma pasta
-Para criar uma pasta pelo terminal, utilize o comando:
+para começar entre no powershell atravez do windows
 
-bash
-mkdir ProjetoGit
+utilize mkdir projetoGit para criar a pasta
 
 ## 2. Entrar na pasta
 Para acessar a pasta criada, utilize:
